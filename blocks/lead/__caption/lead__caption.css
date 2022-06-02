@@ -9,6 +9,6 @@
 }
 @media (max-width: 1024px) {
   .lead__caption {
-    margin-left: 24px;
+    padding-left: 48px;
   }
 }
