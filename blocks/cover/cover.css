@@ -10,3 +10,7 @@
   background-image: url(/images/train_station.png);
   z-index: 0;
 }
+@media (max-width: 1200px) {
+  .cover {
+  }
+}

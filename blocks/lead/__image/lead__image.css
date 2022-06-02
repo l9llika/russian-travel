@@ -12,6 +12,6 @@
 }
 @media (max-width: 768px) {
   .lead__image {
-    padding: 0 0;
+    padding: 0;
   }
 }

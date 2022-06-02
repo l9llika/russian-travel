@@ -1,0 +1,9 @@
+.footer__copyright {
+  font-size: 14px;
+  line-height: 16px;
+}
+@media (max-width: 600px) {
+  .footer__links {
+  line-height: 14px;
+  }
+}

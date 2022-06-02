@@ -4,3 +4,8 @@
   font-size: 18px;
   line-height: 163%;
 }
+@media (max-width: 425px) {
+  .place__text {
+    padding: 0 16px;
+  }
+}
