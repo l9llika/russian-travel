@@ -4,6 +4,33 @@
   font-style: normal;
   font-weight: 900;
   font-size: 96px;
-  line-height: 100px;
+  line-height: 110%;
   text-align: center;
+}
+@media (max-width: 768px) {
+  .lead__title {
+    font-size: 82px;
+  }
+}
+@media (max-width: 600px) {
+  .lead__title {
+    font-size: 64px;
+  }
+}
+@media (max-width: 500px) {
+  .lead__title {
+    font-size: 48px;
+  }
+}
+@media (max-width: 425px) {
+  .lead__title {
+    margin-bottom: 16px;
+    font-size: 44px;
+  }
+  
+}
+@media (max-width: 320px) {
+  .lead__title {
+    font-size: 40px;
+  }  
 }

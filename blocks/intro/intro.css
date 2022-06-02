@@ -5,3 +5,15 @@
   display: flex;
   flex-direction: column;
 }
+@media (max-width: 768px) {
+  .intro {
+    margin: 0;
+    width: 100%;
+    padding: 88px 24px;
+  }
+}
+@media (max-width: 425px) {
+  .intro {
+    padding: 64px 16px;
+  }
+}
