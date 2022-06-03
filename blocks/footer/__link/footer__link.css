@@ -1,0 +1,8 @@
+.footer__link {
+  margin-right: 18px;
+}
+@media (max-width: 600px) {
+  .footer__link {
+    margin: 0 0 32px;
+  }
+}

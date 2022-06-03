@@ -1,11 +1,11 @@
-.footer__links {
+.footer__list {
   padding: 0;
   margin: 0;
   display: flex;
   list-style-type: none;
 }
 @media (max-width: 600px) {
-  .footer__links {
+  .footer__list {
     flex-direction: column;
     align-items: flex-start;
   }

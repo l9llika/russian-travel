@@ -2,6 +2,8 @@
   width: 176px;
   height: 52px;
   object-fit: contain;
+  background-image: url(/images/__logo.svg);
+  background-size: cover;
 }
 @media (max-width: 425px) {
   .header__logo {
