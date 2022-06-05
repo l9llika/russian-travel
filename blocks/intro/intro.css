@@ -11,15 +11,8 @@
     padding: 88px 48px;
   }
 }
-@media (max-width: 1024px) {
-  .intro {
-    margin: 0;
-    padding: 88px 48px;
-  }
-}
 @media (max-width: 768px) {
   .intro {
-    margin: 0;
     padding: 88px 24px;
   }
 }
