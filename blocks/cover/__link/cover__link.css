@@ -40,6 +40,11 @@
     padding: 0px;
   }
 }
+@media (max-width: 768px) {
+  .cover__link {
+    min-height: 480px;
+  }
+}
 @media (max-width: 425px) {
   .cover__link {
     min-height: 200px;

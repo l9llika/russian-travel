@@ -3,7 +3,7 @@
   margin: 0 auto;
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: repeat(5, 1fr);
+  grid-template-rows: repeat(5, min-content);
   gap: 80px; 
 }
 @media (max-width: 1200px) {
@@ -14,12 +14,13 @@
 }
 @media (max-width: 768px) {
   .places {
-    padding: 88px 24px;
-    gap: 50px;
+    padding: 90px 24px;
+    gap: 73px;
   }
 }
 @media (max-width: 425px) {
   .places {
     padding: 64px 0;
+    gap: 50px;
   }
 }
