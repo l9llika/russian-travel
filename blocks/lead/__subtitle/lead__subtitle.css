@@ -19,14 +19,8 @@
 }
 @media (max-width: 425px) {
   .lead__subtitle {
-    margin-bottom: 40px;
-    font-size: 20px;
-  }
-  
-}
-@media (max-width: 320px) {
-  .lead__subtitle {
     font-size: 16px;
     line-height: 20px;
-  }  
+  }
+  
 }
