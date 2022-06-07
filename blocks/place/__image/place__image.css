@@ -5,17 +5,16 @@
 @media (max-width: 1024px) {
   .place__image {
     min-width: 320px;
-    max-width: 440px;
+    max-width: 100%;
   }
 }
 @media (max-width: 768px) {
   .place__image {
     min-width: 320px;
-    max-width: 340px;
   }
 }
-@media (max-width: 425px) {
+@media (max-width: 768px) {
   .place__image {
-    width: 100%;
+    min-width: 100%;
   }
 }

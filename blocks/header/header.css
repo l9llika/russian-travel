@@ -12,9 +12,19 @@
    padding: 30px 0 48px;
   }
 }
+@media (max-width: 1000px) {
+  .header {
+   max-width: 90%;
+  }
+}
 @media (max-width: 768px) {
   .header {
    max-width: 720px;
+  }
+}
+@media (max-width: 700px) {
+  .header {
+   max-width: 90%;
   }
 }
 @media (max-width: 425px) {

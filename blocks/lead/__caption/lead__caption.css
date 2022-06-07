@@ -7,7 +7,7 @@
   text-transform: uppercase;
   align-self: flex-start;
 }
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   .lead__caption {
     padding-left: 24px;
   }
